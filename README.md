@@ -1,6 +1,7 @@
 # pan-tilt-mechanism
 
-mekanizmanın videosuna ulaşmak için: https://youtube.com/shorts/Kmis3968g-Q?si=oxwkbyOPEoT07ArG
+mekanizmanın videosuna ulaşmak için:
+https://youtube.com/shorts/lybplBNGlkQ?si=yUeCl3fuF9sPG2fD 
 
 - STM32 mikrodenetleyici üzerinde HAL kütüphanesi kullanılarak pan-tilt servo motor kontrol sistemi geliştirildi.
 - Mekanizmanın 3D modeli Fusion 360 ortamında tasarlanarak 3D yazıcıdan üretildi.
